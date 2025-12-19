@@ -1,0 +1,12 @@
+To Push a Repo:
+1. git init
+2. git add .
+3. git commit -m "Initial Commit"
+4. git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+5. git branch -M main
+6. git push -u origin main
+
+To update a existed Repo:
+git add .
+git commit -m "Updated [describe your changes]"
+git push origin main

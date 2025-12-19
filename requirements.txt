@@ -1,0 +1,48 @@
+Django==4.2.7
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+django-cors-headers==4.3.0
+python-decouple==3.8
+Pillow==10.1.0
+django-otp==1.3.0
+qrcode==7.4.2
+
+# OAuth & Social Authentication (Day 3)
+social-auth-app-django==5.4.0
+social-auth-core==4.5.0
+
+# Device Detection & Management (Day 3)
+user-agents==2.2.0
+django-user-agents==0.4.0
+
+# Database & Caching
+psycopg2-binary==2.9.9
+redis==5.0.1
+
+# Background Tasks
+celery==5.3.4
+django-celery-beat==2.5.0
+
+# WebSocket & Real-time
+channels==4.0.0
+channels-redis==4.1.0
+daphne==4.0.0
+
+# MongoDB (Day 12 - Chat System)
+pymongo==4.6.0
+djongo==1.3.6
+sqlparse==0.2.4
+
+# Filtering & Reporting
+django-filter==23.3
+reportlab==4.0.7
+PyPDF2==3.0.1
+openpyxl==3.1.2
+python-dateutil==2.8.2
+pytz==2023.3
+requests==2.31.0
+django-storages==1.14
+boto3==1.29.7
+django-environ==0.11.2
+whitenoise==6.6.0
+gunicorn==21.2.0

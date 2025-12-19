@@ -1,0 +1,52 @@
+
+================================================================================
+                              PAYSLIP
+================================================================================
+
+Employee ID: EMP003
+Employee Name: 
+Designation: Software Engineer
+Department: Engineering
+
+Month: November 2025
+Working Days: 26
+Days Worked: 26.00
+Days Absent: 0.00
+
+================================================================================
+                              EARNINGS
+================================================================================
+Basic Salary:                      50000.00
+HRA:                              20000.00
+Transport Allowance:               3000.00
+Medical Allowance:                 2500.00
+Special Allowance:                 7500.00
+Bonus:                             5000.00
+Overtime Pay:                         0.00
+Incentives:                           0.00
+                              _______________
+GROSS SALARY:                     88000.00
+
+================================================================================
+                              DEDUCTIONS
+================================================================================
+PF (Employee):                     6000.00
+ESI (Employee):                       0.00
+Professional Tax:                   200.00
+TDS:                                  0.00
+Loan Deduction:                   10000.00
+Other Deductions:                     0.00
+                              _______________
+TOTAL DEDUCTIONS:                 16200.00
+
+================================================================================
+NET SALARY:                       71800.00
+================================================================================
+
+Status: PAID
+Generated On: 2025-11-16
+Approved By: admin@example.com
+Payment Date: 2025-11-24
+
+This is a computer-generated payslip and does not require a signature.
+================================================================================

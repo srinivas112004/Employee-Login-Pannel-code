@@ -1,0 +1,8 @@
+Project Alpha - Technical Specification
+
+## Overview
+This project aims to...
+
+## Requirements
+1. Feature A
+2. Feature B
