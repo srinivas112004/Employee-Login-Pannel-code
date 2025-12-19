@@ -52,27 +52,35 @@ The server will start at `http://localhost:8000`
 
 ## 📁 Project Structure
 ```
-Emp/
-├── employee_management/     # Main project folder
-│   ├── settings.py         # Project settings
-│   ├── urls.py            # Main URL routing
-│   └── wsgi.py            # WSGI config
-├── authentication/         # Day 1-2: Authentication & User Management
-├── dashboard/             # Day 4,6: Employee Dashboard & Task/Project Management
-├── notifications/         # Day 7: Notifications & Reminders
-├── leaves/                # Day 8-9: Leave & Attendance Management
-├── attendance/            # Day 10: Attendance Management System
-├── chat/                  # Day 12-14: Chat & Real-time Communication
-├── hr_profile/            # Day 15: Employee Profile & Onboarding
-├── hr_payroll/           # Future: HR & Payroll Management
-├── performance/          # Future: Performance & KPI Tracking
-├── learning/             # Future: Learning & Development
-├── compliance/           # Future: Compliance & Policy
-├── documents/            # Future: Document Management
-├── analytics/            # Future: Analytics & Reporting
-├── requirements.txt      # Python dependencies
-├── DAILY_ROADMAP.md     # 30-day development plan
-└── POSTMAN_TESTING_GUIDE.md  # API testing guide
+Employee Login Panel/
+├── manage.py
+├── requirements.txt
+├── README.md
+├── employee_management/     # Main Django project settings
+├── authentication/          # User auth, JWT, 2FA
+├── dashboard/               # Dashboard & task management
+├── notifications/           # Notifications system
+├── leaves/                  # Leave management
+├── attendance/              # Attendance tracking
+├── chat/                    # Real-time chat (WebSocket)
+├── hr_profile/              # Employee profiles
+├── hr_payroll/              # Payroll management
+├── hr_performance/          # Performance tracking
+├── hr_reviews/              # Performance reviews
+├── hr_lms/                  # Learning management
+├── hr_expenses/             # Expense management
+├── compliance/              # Policy & compliance
+├── documents/               # Document management
+├── audit_trail/             # Audit logging
+├── media/                   # Uploaded files
+└── frontend/                # React frontend (Vite)
+    ├── src/
+    │   ├── components/      # Reusable UI components
+    │   ├── pages/           # Page components
+    │   ├── context/         # React context
+    │   ├── hooks/           # Custom hooks
+    │   └── utils/           # Utilities
+    └── public/
 ```
 
 ## 📚 Documentation Files
