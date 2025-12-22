@@ -271,9 +271,9 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'natureglow2004@gmail.com'
-EMAIL_HOST_PASSWORD = 'oyor liyf szgd ejxe'
-DEFAULT_FROM_EMAIL = 'Employee Management System <natureglow2004@gmail.com>'
+EMAIL_HOST_USER = 'your email'
+EMAIL_HOST_PASSWORD = 'your password'
+DEFAULT_FROM_EMAIL = 'Employee Management System <your email>'
 
 # Email settings
 EMAIL_SUBJECT_PREFIX = '[EMS] '
